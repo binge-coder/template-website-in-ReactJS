@@ -9,7 +9,10 @@ This was made as a playground for testing new things. I thought I might as well 
 - ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 
 ## Screenshots
+> light mode to purify your eyes
+![light](/screenshots/light.png)
 
-![Light Mode]()
-![Dark Mode]()
+> Black websites matter 🗿👍🏿
+![dark](/screenshots/dark.png)
+
 
